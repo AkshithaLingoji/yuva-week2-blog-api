@@ -1,4 +1,4 @@
-# YUva Intern — Week 2 Blog REST API
+# Yuva Intern — Week 2 Blog REST API
 
 A Java Spring Boot REST API for a blog platform, covering user registration, post CRUD, comment CRUD, relational persistence, validation, and error handling.
 
